@@ -1,7 +1,7 @@
 # springboot-docker
  
  
-## Step 1 - Create a new naespace  
+## Step 1 - Create a new namespace  
 ``` 
 $ oc new-project spring-boot-docker
 ```
